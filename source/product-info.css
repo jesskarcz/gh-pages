@@ -1,0 +1,24 @@
+.product-info {
+  width: 98%; }
+  .product-info hr {
+    display: inline-block;
+    width: 100%;
+    line-height: 10px;
+    color: #000;
+    margin: 20px 0; }
+  .product-info .demo-tabs.ch-tabs #tab2-a .seller, .product-info .demo-tabs.ch-tabs #tab2-a .seller-a {
+    color: #55883E;
+    font-weight: 700; }
+  .product-info .demo-tabs.ch-tabs #tab2-a .seller-a {
+    background-color: #DBEBD4;
+    padding: 5px;
+    padding-left: 30px; }
+  .product-info .demo-tabs.ch-tabs #tab2-a .buyer, .product-info .demo-tabs.ch-tabs #tab2-a .buyer-q {
+    color: #5780B2;
+    font-weight: 700; }
+  .product-info .demo-tabs.ch-tabs #tab2-a .buyer-q {
+    background-color: #CFE2FC;
+    padding: 5px;
+    padding-left: 30px; }
+
+/*# sourceMappingURL=product-info.css.map */

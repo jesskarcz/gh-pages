@@ -1,0 +1,6 @@
+body{background-color:#ffed37;font-family:Arial,Helvetica,Nimbus Sans L,sans-serif;font-size:13px;color:#333;margin:0 auto}
+.container{width:50%;margin:0 auto;border:2px solid #000;background-color:#fff;padding-left:10px}
+header h1{margin:30px 10px;font-weight:900;font-size:30px}
+.product-details{line-height:25px}.product-details .ch-price{font-size:26px;padding:10px 0}.product-details .buy .ch-btn{margin-top:15px}.product-details .buy p{font-size:10px}.product-details .carousel{width:50%;display:inline-block}.product-details .carousel .ch-carousel-mask{height:100px!important}
+.product-image{float:left;width:50%}.product-image img{width:300px} @media screen and (max-width:1024px) {.product-image{width:60%} header h1{line-height: 30px;}}
+.product-info{width:98%}.product-info hr{display:inline-block;width:100%;line-height:10px;color:#000;margin:20px 0}.product-info .demo-tabs.ch-tabs #tab2-a .seller,.product-info .demo-tabs.ch-tabs #tab2-a .seller-a{color:#55883e;font-weight:700}.product-info .demo-tabs.ch-tabs #tab2-a .seller-a{background-color:#dbebd4;padding:5px;padding-left:30px}.product-info .demo-tabs.ch-tabs #tab2-a .buyer,.product-info .demo-tabs.ch-tabs #tab2-a .buyer-q{color:#5780b2;font-weight:700}.product-info .demo-tabs.ch-tabs #tab2-a .buyer-q{background-color:#cfe2fc;padding:5px;padding-left:30px}

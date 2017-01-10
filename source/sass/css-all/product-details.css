@@ -1,0 +1,16 @@
+.product-details {
+  line-height: 25px; }
+  .product-details .ch-price {
+    font-size: 26px;
+    padding: 10px 0; }
+  .product-details .buy .ch-btn {
+    margin-top: 15px; }
+  .product-details .buy p {
+    font-size: 10px; }
+  .product-details .carousel {
+    width: 50%;
+    display: inline-block; }
+    .product-details .carousel .ch-carousel-mask {
+      height: 100px !important; }
+
+/*# sourceMappingURL=product-details.css.map */
